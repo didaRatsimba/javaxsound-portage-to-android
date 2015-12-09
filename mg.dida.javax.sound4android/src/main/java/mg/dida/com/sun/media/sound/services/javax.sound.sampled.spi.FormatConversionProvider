@@ -1,0 +1,5 @@
+# Providers for FormatConversion
+mg.dida.com.sun.media.sound.AudioFloatFormatConverter
+mg.dida.com.sun.media.sound.UlawCodec
+mg.dida.com.sun.media.sound.AlawCodec
+mg.dida.com.sun.media.sound.PCMtoPCMCodec

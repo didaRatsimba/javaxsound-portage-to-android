@@ -1,0 +1,6 @@
+# Providers for audio file reading
+mg.dida.com.sun.media.sound.AuFileReader
+mg.dida.com.sun.media.sound.AiffFileReader
+mg.dida.com.sun.media.sound.WaveFileReader
+mg.dida.com.sun.media.sound.WaveFloatFileReader
+mg.dida.com.sun.media.sound.SoftMidiAudioFileReader

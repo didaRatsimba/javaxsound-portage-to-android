@@ -1,0 +1,4 @@
+# Providers for writing audio files
+mg.dida.com.sun.media.sound.AuFileWriter
+mg.dida.com.sun.media.sound.AiffFileWriter
+mg.dida.com.sun.media.sound.WaveFileWriter

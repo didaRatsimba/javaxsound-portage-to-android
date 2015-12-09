@@ -1,0 +1,3 @@
+# last mixer is default mixer
+mg.dida.com.sun.media.sound.PortMixerProvider
+mg.dida.com.sun.media.sound.DirectAudioDeviceProvider

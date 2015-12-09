@@ -1,0 +1,5 @@
+# Providers for midi devices
+mg.dida.com.sun.media.sound.RealTimeSequencerProvider
+mg.dida.com.sun.media.sound.MidiOutDeviceProvider
+mg.dida.com.sun.media.sound.MidiInDeviceProvider
+mg.dida.com.sun.media.sound.SoftProvider

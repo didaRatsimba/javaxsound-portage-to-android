@@ -1,0 +1,5 @@
+# Providers for Soundbanks
+mg.dida.com.sun.media.sound.SF2SoundbankReader
+mg.dida.com.sun.media.sound.DLSSoundbankReader
+mg.dida.com.sun.media.sound.AudioFileSoundbankReader
+mg.dida.com.sun.media.sound.JARSoundbankReader

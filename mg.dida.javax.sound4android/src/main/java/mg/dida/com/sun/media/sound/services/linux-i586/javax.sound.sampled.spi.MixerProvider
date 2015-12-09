@@ -1,0 +1,6 @@
+# service provider file for Linux: with DirectAudioDeviceProvider
+# last mixer is default mixer
+mg.dida.com.sun.media.sound.PortMixerProvider
+mg.dida.com.sun.media.sound.SimpleInputDeviceProvider
+mg.dida.com.sun.media.sound.DirectAudioDeviceProvider
+mg.dida.com.sun.media.sound.HeadspaceMixerProvider
